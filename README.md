@@ -5,4 +5,4 @@ This program allows you to keep a record of your expenses. The project is writte
 ![alt text](https://github.com/benainley01/rent_tracker/blob/main/Capture.PNG)
 
 
-
+![alt text](https://github.com/benainley01/rent_tracker/blob/main/Capture%202.png)
